@@ -1,0 +1,1 @@
+start "Test" "C:\Program Files (x86)\World of Warcraft\World of Warcraft Launcher.exe"
